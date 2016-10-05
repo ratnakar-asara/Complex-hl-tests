@@ -1,6 +1,8 @@
-# perf-test
+# Various testcases
 
 #WIP
+Testcases can be executed by adjusting the config.json
+TODO: Pass params to the program and exexute tests based on params
 
 ###Step1: Install dependent modules
 
